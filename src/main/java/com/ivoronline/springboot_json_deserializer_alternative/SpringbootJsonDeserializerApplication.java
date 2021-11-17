@@ -1,4 +1,4 @@
-package com.ivoronline.springboot_json_deserializer;
+package com.ivoronline.springboot_json_deserializer_alternative;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
